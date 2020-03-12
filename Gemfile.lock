@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/jamezpolley/technology_one_scraper.git
-  revision: bc4a30bba90f4756f81c57f38c905939d034edda
+  revision: cecc9acf2f8b290fe282245b360f823627f2576e
   specs:
-    technology_one_scraper (0.1.0)
+    technology_one_scraper (0.1.1)
       activesupport
       mechanize
       scraperwiki
