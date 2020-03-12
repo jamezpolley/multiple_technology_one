@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jamezpolley/technology_one_scraper.git
-  revision: cecc9acf2f8b290fe282245b360f823627f2576e
+  revision: f3fd0c2c5d6c7f677e66daa1dcbe53ab515d3a1f
   specs:
     technology_one_scraper (0.1.1)
       activesupport
